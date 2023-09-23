@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-30T13:44:34 IST" name="Default suite" finished-at="2022-04-30T13:46:05 IST" duration-ms="90545">
+    <groups>
+    </groups>
+    <test started-at="2022-04-30T13:44:34 IST" name="Default test" finished-at="2022-04-30T13:46:05 IST" duration-ms="90545">
+      <class name="TestSuites.AppsTools">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:TestSuites.AppsTools@484094a5]" started-at="2022-04-30T13:44:34 IST" name="invokeBrowser" finished-at="2022-04-30T13:44:40 IST" duration-ms="6372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="opurl()[pri:1, instance:TestSuites.AppsTools@484094a5]" started-at="2022-04-30T13:44:40 IST" name="opurl" finished-at="2022-04-30T13:44:44 IST" duration-ms="3283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opurl -->
+        <test-method signature="lgn()[pri:2, instance:TestSuites.AppsTools@484094a5]" started-at="2022-04-30T13:44:44 IST" name="lgn" finished-at="2022-04-30T13:45:44 IST" duration-ms="59972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lgn -->
+        <test-method signature="tools()[pri:3, instance:TestSuites.AppsTools@484094a5]" started-at="2022-04-30T13:45:44 IST" name="tools" finished-at="2022-04-30T13:46:04 IST" duration-ms="20480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tools -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestSuites.AppsTools@484094a5]" started-at="2022-04-30T13:46:04 IST" name="closeBrowser" finished-at="2022-04-30T13:46:05 IST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestSuites.AppsTools -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
